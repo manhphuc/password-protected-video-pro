@@ -16,4 +16,4 @@ Secure your videos with Password Protected Video Pro. Makes it easy for you to s
 + Create instructions to get the password for each corresponding video
 
 ## Issues:
-- Issues reported here please https://github.com/manhphuc/wp-password-protected-video-lite/issues
+- Issues reported here please https://github.com/manhphuc/password-protected-video-pro/issues
